@@ -1,4 +1,3 @@
-package CS151;
 
 import java.beans.XMLDecoder;
 import java.io.BufferedInputStream;
